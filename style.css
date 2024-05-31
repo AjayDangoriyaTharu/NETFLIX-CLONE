@@ -4,8 +4,8 @@
 }
 
 .main{
-    background: url(/assets//images/background.jpg);
-    background-position: center;
+    background: url(/assets/images/background.jpg);
+    background-position: center center;
     background-size: max(1000px,100vw);
     background-repeat: no-repeat;
     height: 80vh;
@@ -20,11 +20,12 @@
     top: 0;
     background-color: black;
 }
-
-nav{
+/* 
+nav {
     max-width: 80vw;
     justify-content: space-between;
     margin: auto;
     display: flex;
     align-items: center;
-}
+    height: 62px;
+} */
